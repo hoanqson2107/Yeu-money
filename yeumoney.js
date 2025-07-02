@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @match        https://yeumoney.com/*
-//  @exclude      https://yeumoney.com/quangly/check_code.php*
+// @exclude      https://yeumoney.com/quangly/check_code.php*
 // @grant        GM_xmlhttpRequest
 // @grant        GM_addStyle
 // @grant        GM_setClipboard
